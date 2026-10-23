@@ -75,3 +75,4 @@
 #     if choice == "1":
 #         withdraw()
 #     elif choice == "2":
+print("welcome to pythonlife")
